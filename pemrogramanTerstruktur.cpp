@@ -230,3 +230,34 @@ void menuAdmin() {
     } while (pilihan != 6);
 }
 //void menuAdmin() - Selesai
+
+//void login()
+void login() {
+    string username, password;
+    // system("cls"); // membersihkan layar ketika output berjalan.
+    cout << "|===============================|" << endl;
+    cout << "|             -LOGIN-           |" << endl;
+    cout << "|           -Interface-         |" << endl;
+    cout << "|                               |" << endl;
+    cout << "|      TOKO KELONTONG CANGGIH   |" << endl;
+    cout << "|           KELOMPOK 3          |" << endl;
+    cout << "|                               |" << endl;
+    cout << "|           KELOMPOK 3 :        |" << endl;
+    cout << "|         Amrullah Azzaky       |" << endl;
+    cout << "|           Zulfa Riana         |" << endl;
+    cout << "|        Defina Rahmayanti      |" << endl;
+    cout << "|      Farida Agil Rahmadani    |" << endl;
+    cout << "|      Mohamad Farrel Pratama   |" << endl;
+    cout << "|===============================|" << endl;
+    cout << "| Username : ";
+    cin >> username;
+    cout << "| Password : ";
+    cin >> password;
+    if (username == "adminkelompok3" && password == "admin0000") {
+        menuAdmin();
+    } else {
+        cout << "Username atau Password salah!" << endl;
+        login();
+    }
+}
+//void login() - Selesai
