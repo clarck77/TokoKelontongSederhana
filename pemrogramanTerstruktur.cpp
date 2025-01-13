@@ -187,3 +187,46 @@ void menuKasir() {
     } while (pilihan != 4);
 }
 //void menuKasir() - Selesai
+
+//void menuAdmin()
+void menuAdmin() {
+    int pilihan;
+    do {
+        cout << "|===============================|" << endl;
+        cout << "|            -MENU-             |" << endl;
+        cout << "|===============================|" << endl;
+        cout << "| 1. Lihat Barang               |" << endl;
+        cout << "| 2. Tambah Barang              |" << endl;
+        cout << "| 3. Edit Barang                |" << endl;
+        cout << "| 4. Hapus Barang               |" << endl;
+        cout << "| 5. Menu Kasir                 |" << endl;
+        cout << "| 6. Logout                     |" << endl;
+        cout << "|===============================|" << endl;
+        cout << "| Pilihan : ";
+        cin >> pilihan;
+
+        switch (pilihan) {
+        case 1:
+            tampilDataBarang();
+            break;
+        case 2:
+            tambahDataBarang();
+            break;
+        case 3:
+            updateDataBarang();
+            break;
+        case 4:
+            hapusDataBarang();
+            break;
+        case 5:
+            menuKasir();
+            break;
+        case 6:
+            cout << "Logout berhasil!" << endl;
+            return;
+        default:
+            cout << "Pilihan tidak valid!" << endl;
+        }
+    } while (pilihan != 6);
+}
+//void menuAdmin() - Selesai
