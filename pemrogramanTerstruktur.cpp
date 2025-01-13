@@ -261,3 +261,11 @@ void login() {
     }
 }
 //void login() - Selesai
+
+// int main berisikan void menu login
+int main() {
+    login();
+    return 0;
+}
+// int main berisikan void menu login - selesai
+
