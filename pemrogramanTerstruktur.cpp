@@ -59,3 +59,28 @@ void tambahDataBarang() {
     cout << "Barang berhasil ditambahkan!" << endl;
 }
 //void tambahDataBarang() - Selesai
+
+//void updateDataBarang()
+void updateDataBarang() {
+    string kode;
+    cout << "Masukkan Kode Barang yang akan diupdate: ";
+    cin >> kode;
+    for (auto &b : barang) {
+        if (b.kode == kode) {
+            cout << "Masukkan Nama Barang baru: ";
+            cin >> b.nama;
+            cout << "Masukkan Satuan Barang baru: ";
+            cin >> b.satuan;
+            cout << "Masukkan Harga Barang baru: ";
+            while (!(cin >> b.harga)) {
+                cin.clear();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                cout << "Input harus berupa angka. Masukkan Harga Barang baru: ";
+            }
+            cout << "Barang berhasil diperbarui!" << endl;
+            return;
+        }
+    }
+    cout << "Barang tidak ditemukan!" << endl;
+}
+//void updateDataBarang () - Selesai
