@@ -84,3 +84,19 @@ void updateDataBarang() {
     cout << "Barang tidak ditemukan!" << endl;
 }
 //void updateDataBarang () - Selesai
+
+//void hapusDataBarang()
+void hapusDataBarang() {
+    string kode;
+    cout << "Masukkan Kode Barang yang akan dihapus: ";
+    cin >> kode;
+    for (size_t i = 0; i < barang.size(); ++i) {
+        if (barang[i].kode == kode) {
+            barang.erase(barang.begin() + i);
+            cout << "Barang berhasil dihapus!" << endl;
+            return;
+        }
+    }
+    cout << "Barang tidak ditemukan!" << endl;
+}
+//void hapusDataBarang() - Selesai
