@@ -1,2 +1,21 @@
 # TokoKelontongSederhana
-TokoKelontongSederhana adalah simulasi aplikasi berbasis C++ / teks oriented yang saya rancang untuk mempermudah pengelolaan toko kelontong. Aplikasi sederhana ini menyediakan fitur login aman, manajemen data melalui menu admin, dan kemudahan transaksi di menu kasir.
+
+**Pengembang:** Amrullah Azzaky
+
+## Deskripsi Proyek
+TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong. Aplikasi ini memiliki fitur:
+- **Menu Login:** Autentikasi pengguna untuk akses sistem. 🛂
+- **Menu Admin:** Pengelolaan data barang dan laporan. 📊
+- **Menu Kasir:** Transaksi penjualan barang. 💳
+
+## Cara Instalasi/Penggunaan
+Belum tersedia panduan instalasi atau penggunaan.
+
+## Teknologi yang Digunakan
+- **Bahasa Pemrograman:** C++
+
+## Tim Pengembang
+- Amrullah Azzaky
+
+> *Catatan: Informasi lebih lanjut dapat ditambahkan di masa mendatang.*
+
