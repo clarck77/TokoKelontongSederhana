@@ -39,3 +39,23 @@ void tampilDataBarang() {
     cout << "|===========================================|" << endl;
 }
 //void hanyaTampilkanData() - Selesai
+
+//void tambahDataBarang()
+void tambahDataBarang() {
+    Barang baru;
+    cout << "Masukkan Kode Barang: ";
+    cin >> baru.kode;
+    cout << "Masukkan Nama Barang: ";
+    cin >> baru.nama;
+    cout << "Masukkan Satuan Barang: ";
+    cin >> baru.satuan;
+    cout << "Masukkan Harga Barang: ";
+    while (!(cin >> baru.harga)) {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        cout << "Input harus berupa angka. Masukkan Harga Barang: ";
+    }
+    barang.push_back(baru);
+    cout << "Barang berhasil ditambahkan!" << endl;
+}
+//void tambahDataBarang() - Selesai
