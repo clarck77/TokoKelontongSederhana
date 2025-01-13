@@ -25,3 +25,17 @@ vector<Barang> barang = {
 };
 // string barang pertama kali yang akan muncul - selesai
 
+//void hanyaTampilkanData()
+void tampilDataBarang() {
+    cout << "|=============================================|" << endl;
+    cout << "| No | Kode  | Nama Barang   | Satuan | Harga |" << endl;
+    cout << "|=============================================|" << endl;
+    for (size_t i = 0; i < barang.size(); ++i) {
+        cout << "|" << setw(2) << i + 1 << " | " << setw(6) << barang[i].kode
+             << "|" << setw(12) << barang[i].nama
+             << "|" << setw(6) << barang[i].satuan
+             << "|" << setw(6) << barang[i].harga << "|" << endl;
+    }
+    cout << "|===========================================|" << endl;
+}
+//void hanyaTampilkanData() - Selesai
