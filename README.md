@@ -17,5 +17,5 @@ Belum tersedia panduan instalasi atau penggunaan.
 ## Tim Pengembang
 - Amrullah Azzaky
 
-> *Catatan: Informasi lebih lanjut dapat ditambahkan di masa mendatang.*
+> *Catatan: Anda dapat mencobanya dengan perintah di Git bash = Git clone URl*
 
