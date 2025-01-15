@@ -17,5 +17,5 @@ Belum tersedia panduan instalasi atau penggunaan.
 ## Tim Pengembang
 - Amrullah Azzaky
 
-> *Catatan: Anda dapat mencobanya dengan perintah di Git bash = "Git clone [ URl](https://github.com/clarck77/TokoKelontongSederhana.git)"*
+> *Catatan: Anda dapat mencobanya dengan perintah di Git bash = "Git clone https://github.com/clarck77/TokoKelontongSederhana.git"*
 
