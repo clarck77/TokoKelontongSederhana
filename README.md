@@ -10,7 +10,11 @@ TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong.
 
 ## Cara Instalasi/Penggunaan
 ```
-Git clone https://github.com/clarck77/TokoKelontongSederhana.git
+git clone https://github.com/clarck77/TokoKelontongSederhana.git
+```
+
+```
+cd TokoKelontongSederhana
 ```
 
 ## Teknologi yang Digunakan
