@@ -9,13 +9,15 @@ TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong.
 - **Menu Kasir:** Transaksi penjualan barang. 💳
 
 ## Cara Instalasi/Penggunaan
-Belum tersedia panduan instalasi atau penggunaan.
+```
+Git clone https://github.com/clarck77/TokoKelontongSederhana.git
+```
 
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman:** C++
 
-## Tim Pengembang
+## Pengembang
 - Amrullah Azzaky
 
-> *Catatan: Anda dapat mencobanya dengan perintah di Git bash = "Git clone https://github.com/clarck77/TokoKelontongSederhana.git"*
+> *Catatan: Anda dapat mencobanya dengan perintah di Git bash / Terminal apapun*
 
