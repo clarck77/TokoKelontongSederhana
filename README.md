@@ -18,4 +18,7 @@ cd TokoKelontongSederhana
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman:** C++
 
+## Lisensi
+Proyek ini tidak dilisensikan.
+
 > Amrullah Azzaky
