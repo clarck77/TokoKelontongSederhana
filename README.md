@@ -20,8 +20,4 @@ cd TokoKelontongSederhana
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman:** C++
 
-## Pengembang
-- Amrullah Azzaky
-
-> *Catatan: Anda dapat mencobanya dengan perintah di Git bash / Terminal apapun*
-
+> Amrullah Azzaky
