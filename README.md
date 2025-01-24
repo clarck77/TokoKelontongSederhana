@@ -1,6 +1,3 @@
-Berikut adalah versi README dengan tambahan emotikon interaktif:  
-
-```markdown
 # TokoKelontongSederhana 🛒
 
 ## Deskripsi Proyek
