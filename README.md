@@ -1,24 +1,30 @@
-# TokoKelontongSederhana
+Berikut adalah versi README dengan tambahan emotikon interaktif:  
+
+```markdown
+# TokoKelontongSederhana 🛒
 
 ## Deskripsi Proyek
-TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong. Aplikasi ini memiliki fitur:
-- **Menu Login:** Autentikasi pengguna untuk akses sistem. 🛂
-- **Menu Admin:** Pengelolaan data barang dan laporan. 📊
-- **Menu Kasir:** Transaksi penjualan barang. 💳
+TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong. Aplikasi ini memiliki fitur:  
+- **Menu Login:** Autentikasi pengguna untuk akses sistem. 🛂  
+- **Menu Admin:** Pengelolaan data barang dan laporan. 📊  
+- **Menu Kasir:** Transaksi penjualan barang. 💳  
 
-## Cara Instalasi/Penggunaan
-```
-git clone https://github.com/clarck77/TokoKelontongSederhana.git
-```
+## Cara Instalasi/Penggunaan  
+💻 **Langkah-langkah instalasi:**  
+1. Clone repository ini ke dalam folder lokal Anda:  
+   ```bash
+   git clone https://github.com/clarck77/TokoKelontongSederhana.git
+   ```  
+2. Masuk ke dalam folder proyek:  
+   ```bash
+   cd TokoKelontongSederhana
+   ```  
 
-```
-cd TokoKelontongSederhana
-```
+## Teknologi yang Digunakan  
+⚙️ **Bahasa Pemrograman:**  
+- **C++**  
 
-## Teknologi yang Digunakan
-- **Bahasa Pemrograman:** C++
+## Lisensi  
+📝 Proyek ini tidak dilisensikan.  
 
-## Lisensi
-Proyek ini tidak dilisensikan.
-
-> Amrullah Azzaky
+> Dibuat oleh: Amrullah Azzaky 🌟
