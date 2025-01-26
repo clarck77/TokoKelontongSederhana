@@ -1,4 +1,4 @@
-# TokoKelontongSederhana 🛒
+# 🛒 TokoKelontongSederhana 
 
 ## Deskripsi Proyek
 TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong. Aplikasi ini memiliki fitur:  
