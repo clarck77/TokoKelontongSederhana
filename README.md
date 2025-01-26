@@ -24,4 +24,4 @@ TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong.
 ## Lisensi  
 📝 Proyek ini tidak dilisensikan.  
 
-> Dibuat oleh: Amrullah Azzaky 🌟
+> Amrullah Azzaky 
