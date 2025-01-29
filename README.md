@@ -15,7 +15,11 @@ TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong.
 2. Masuk ke dalam folder proyek:  
    ```bash
    cd TokoKelontongSederhana
-   ```  
+   ```
+3. Masuk ke dalam teks editor / IDE
+   ```bash
+   code .
+   ```
 
 ## Teknologi yang Digunakan  
 ⚙️ **Bahasa Pemrograman:**  
