@@ -22,8 +22,7 @@ TokoKelontongSederhana adalah aplikasi sederhana untuk mengelola toko kelontong.
    ```
 
 ## Teknologi yang Digunakan  
-⚙️ **Bahasa Pemrograman:**  
-- **C++**  
+⚙️ **Bahasa Pemrograman: C++**  
 
 ## Lisensi  
 📝 Proyek ini tidak dilisensikan.  
